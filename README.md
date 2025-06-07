@@ -46,8 +46,8 @@ Các file chính:
 ## 📌 Output
 
 - 📁 Dữ liệu sau xử lý: `data/processed/`
-- 📈 Dashboard Tableau: `tableau/dashboard.twb`
-- 🖼️ Hình ảnh demo: `tableau/dashboard_screenshot.png`
+- 📈 Dashboard Tableau: `tableau/twb`
+- 🖼️ Hình ảnh demo: `tableau/screenshot.png`
 - 📄 Dashboard PDF: `tableau/dashboard.pdf`
 
 ---
@@ -66,11 +66,9 @@ Các file chính:
 
 ## 🖼️ Demo Dashboard
 
-![Demo Dashboard](tableau/dashboard_screenshot.png)
+![Demo Dashboard](trong folder tableau)
 
 Hoặc xem trực tiếp trên Tableau Public (nếu có):  
 👉 [Xem bản công khai](https://public.tableau.com/...)
 
 ---
-
-## 📌 Cấu trúc thư mục
