@@ -30,12 +30,12 @@ Các file chính:
 1. **Hiểu vấn đề & mục tiêu**  
    → Xác định các KPI: doanh thu theo SKU, nền tảng, thời gian; so sánh lợi nhuận giữa các kênh
 
-2. **Tiền xử lý dữ liệu** (`notebooks/clean_and_export.ipynb`)
+2. **Tiền xử lý dữ liệu** 
    - Làm sạch dữ liệu từ nhiều file
    - Merge dữ liệu theo SKU
    - Chuyển đổi định dạng để phù hợp với Tableau
 
-3. **Trực quan hóa với Tableau** (`tableau/dashboard.twb`)
+3. **Trực quan hóa với Tableau** 
    - Doanh thu theo nền tảng, danh mục
    - So sánh giá bán giữa các nền tảng
    - Hiệu suất SKU theo thời gian
@@ -48,7 +48,6 @@ Các file chính:
 - 📁 Dữ liệu sau xử lý: `data/processed/`
 - 📈 Dashboard Tableau: `tableau/twb`
 - 🖼️ Hình ảnh demo: `tableau/screenshot.png`
-- 📄 Dashboard PDF: `tableau/dashboard.pdf`
 
 ---
 
